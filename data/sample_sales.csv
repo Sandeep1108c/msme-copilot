@@ -1,0 +1,57 @@
+product_name,category,quantity_sold,unit_price,unit_cost,date,stock_remaining
+Rice (5kg),Groceries,45,280,220,2024-01-05,120
+Rice (5kg),Groceries,52,280,220,2024-01-12,68
+Rice (5kg),Groceries,48,280,220,2024-01-19,20
+Rice (5kg),Groceries,55,280,220,2024-01-26,165
+Wheat Flour (10kg),Groceries,38,450,380,2024-01-05,80
+Wheat Flour (10kg),Groceries,42,450,380,2024-01-12,38
+Wheat Flour (10kg),Groceries,35,450,380,2024-01-19,103
+Wheat Flour (10kg),Groceries,40,450,380,2024-01-26,63
+Cooking Oil (1L),Groceries,65,180,145,2024-01-05,200
+Cooking Oil (1L),Groceries,72,180,145,2024-01-12,128
+Cooking Oil (1L),Groceries,68,180,145,2024-01-19,60
+Cooking Oil (1L),Groceries,75,180,145,2024-01-26,185
+Sugar (1kg),Groceries,55,48,38,2024-01-05,300
+Sugar (1kg),Groceries,48,48,38,2024-01-12,252
+Sugar (1kg),Groceries,52,48,38,2024-01-19,200
+Sugar (1kg),Groceries,45,48,38,2024-01-26,355
+Toor Dal (1kg),Groceries,35,165,130,2024-01-05,150
+Toor Dal (1kg),Groceries,28,165,130,2024-01-12,122
+Toor Dal (1kg),Groceries,22,165,130,2024-01-19,100
+Toor Dal (1kg),Groceries,18,165,130,2024-01-26,182
+Milk (500ml),Dairy,120,28,22,2024-01-05,50
+Milk (500ml),Dairy,135,28,22,2024-01-12,65
+Milk (500ml),Dairy,142,28,22,2024-01-19,73
+Milk (500ml),Dairy,155,28,22,2024-01-26,45
+Curd (400g),Dairy,45,40,32,2024-01-05,30
+Curd (400g),Dairy,52,40,32,2024-01-12,28
+Curd (400g),Dairy,48,40,32,2024-01-19,32
+Curd (400g),Dairy,55,40,32,2024-01-26,25
+Bread (400g),Bakery,85,45,35,2024-01-05,40
+Bread (400g),Bakery,92,45,35,2024-01-12,48
+Bread (400g),Bakery,88,45,35,2024-01-19,52
+Bread (400g),Bakery,95,45,35,2024-01-26,45
+Biscuits Pack,Snacks,65,25,18,2024-01-05,200
+Biscuits Pack,Snacks,58,25,18,2024-01-12,142
+Biscuits Pack,Snacks,45,25,18,2024-01-19,97
+Biscuits Pack,Snacks,38,25,18,2024-01-26,159
+Instant Noodles,Snacks,78,15,10,2024-01-05,250
+Instant Noodles,Snacks,85,15,10,2024-01-12,165
+Instant Noodles,Snacks,92,15,10,2024-01-19,73
+Instant Noodles,Snacks,88,15,10,2024-01-26,185
+Soap Bar,Personal Care,42,35,25,2024-01-05,100
+Soap Bar,Personal Care,38,35,25,2024-01-12,62
+Soap Bar,Personal Care,35,35,25,2024-01-19,127
+Soap Bar,Personal Care,40,35,25,2024-01-26,87
+Shampoo (200ml),Personal Care,22,120,85,2024-01-05,60
+Shampoo (200ml),Personal Care,18,120,85,2024-01-12,42
+Shampoo (200ml),Personal Care,15,120,85,2024-01-19,27
+Shampoo (200ml),Personal Care,12,120,85,2024-01-26,65
+Detergent (1kg),Household,32,145,110,2024-01-05,80
+Detergent (1kg),Household,35,145,110,2024-01-12,45
+Detergent (1kg),Household,38,145,110,2024-01-19,107
+Detergent (1kg),Household,42,145,110,2024-01-26,65
+Tea (250g),Beverages,48,180,140,2024-01-05,90
+Tea (250g),Beverages,52,180,140,2024-01-12,38
+Tea (250g),Beverages,55,180,140,2024-01-19,83
+Tea (250g),Beverages,58,180,140,2024-01-26,25
